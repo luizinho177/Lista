@@ -1,3 +1,1 @@
-faca afiada
-sim
-nao
+exercicio
