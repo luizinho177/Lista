@@ -1,0 +1,3 @@
+faca afiada
+sim
+nao
